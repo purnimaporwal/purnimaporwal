@@ -51,7 +51,7 @@ I'm not going to pretend I'm already there. But I know where I'm going and I'm b
 2023–24   MSc Development Economics, University of Nottingham  ✓
 2025      Research work at IDS Jaipur and remotely  ✓
 2026      Research internship at IFAD (UN), Rome  ✓  (until July)
-2026      Python for Data Science — Stellenbosch University  ✓  (just finished!)
+2026      Python for Data Science — Stellenbosch University  (completing Apr 2026)
 2026      QGIS spatial data course — Ecospatial Lab  (April)
 2026      Maths prep — calculus, linear algebra, optimisation  (ongoing)
 2026–27   Pre-doctoral or RA position  (applying right now)
@@ -255,7 +255,7 @@ I respond to every message.
 *The questions that matter most are often the ones the data doesn't answer easily. That's where I want to work.*
 
 *This is a living document — updated as I learn and build.*
-*Last updated: March 2026*
+*Last updated: April 2026*
 
 ![Profile views](https://komarev.com/ghpvc/?username=purnimaporwal&color=2E4057&style=flat&label=Profile+views)
 
