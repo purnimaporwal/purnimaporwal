@@ -10,7 +10,7 @@
 
 ---
 
-## Hi, I'm Purnima 👩🏽‍💻
+## Hi, I'm Purnima 🎓
 
 I'm currently in Rome doing a research internship at IFAD, which is the UN agency that funds rural development projects across the world. My team reviews these projects for impact assessment work — basically asking: did this intervention actually work, for whom, and why?
 
