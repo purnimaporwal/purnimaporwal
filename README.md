@@ -6,7 +6,7 @@
 [![Website](https://img.shields.io/badge/Website-Visit-222222?style=flat&logo=googlechrome&logoColor=white)](https://purnima-porwal-dtduwf8.gamma.site/)
 [![IFAD](https://img.shields.io/badge/Currently%20@-IFAD%20Rome%20(UN)-009A44?style=flat&logoColor=white)](https://www.ifad.org)
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1000&color=2E4057&center=false&vCenter=true&multiline=true&width=700&height=80&lines=Making+the+invisible+visible+in+data%2C+institutions%2C+and+policy.;Gender+%7C+Labour+%7C+Household+Economics+%7C+South+Asia" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1000&color=2E4057&center=false&vCenter=true&multiline=true&width=700&height=80&lines=Making+the+invisible+visible+in+data%2C+institutions%2C+and+policy.;Gender+%7C+Labour+%7C+Household+Economics+%7C+Development+Economics" alt="Typing SVG" />
 
 ---
 
@@ -35,7 +35,7 @@ What I found:     Social sector expenditure → MORE reported violence  ✓
 
 States that spent more on health and education had *higher* reported domestic violence. That is not what you'd expect if spending was helping.
 
-I spent a lot of time after my dissertation reading about this. The IPV literature, measurement theory, institutional economics. And slowly I started to think that what I found wasn't evidence of more violence — it was evidence of more *reporting*. When women have a clinic to go to, a school nearby, people they can tell — they report violence that was always happening but previously invisible.
+I spent a lot of time after my dissertation reading about this. The IPV literature, measurement theory, and institutional economics. And slowly I started to think that what I found wasn't evidence of more violence — it was evidence of more *reporting*. When women have a clinic to go to, a school nearby, people they can tell — they report violence that was always happening but previously invisible.
 
 I'm calling this the institutional trust mechanism. It's a hypothesis, not a proven finding. Testing it properly is what I want to do in a PhD.
 
@@ -172,14 +172,14 @@ I want to be honest about how I built the IFAD extractor because I think it matt
 
 When the taxonomy project came up, my consultant mentioned that Python had been tried before for this and hadn't worked well. The plan was to do it manually. I said I'd try to make it work.
 
-I worked through it with Claude. We tried the automatic approach first — reading the table of contents, finding the page numbers. It worked for some files but missed pages in others. I suggested trying a manual backup approach where you just specify the start and end page yourself. That worked better. We kept testing and refining.
+I worked through it with Claude. We tried the automatic approach first — reading the table of contents, finding the page numbers. It worked for some files, but missed pages in others. I suggested trying a manual backup approach where you just specify the start and end page yourself. That worked better. We kept testing and refining.
 
-The decisions about what to build, how to approach it, when to try a different strategy — those were mine. Claude helped me write Python I was still learning. I also used NotebookLM and Gemini at different points to understand concepts.
+The decisions about what to build, how to approach it, and when to try a different strategy — those were mine. Claude helped me write Python I was still learning. I also used NotebookLM and Gemini at different points to understand concepts.
 
 I think that's honest. And I think knowing how to use AI tools well — when to use them, how to direct them, how to check what they produce — is a skill worth naming, not hiding.
 
 My consultant's response when it was done:
-> *"Your work has been a great help to us. I'm sure when we move to other replenishment cycles your Python code will bring even greater value."*
+> *"Your work has been a great help to us. I'm sure when we move to other replenishment cycles, your Python code will bring even greater value."*
 
 That was nice to hear. But what I liked most was that the tool will keep working after I leave.
 
@@ -192,9 +192,9 @@ That was nice to hear. But what I liked most was that the tool will keep working
 ```
 Python for Data Science
 Stellenbosch University — School for Data Science and Computational Thinking
-March to April 2026 — using Google Colab
+March–April 2026 — using Google Colab
 Pandas, Matplotlib, NumPy, Scikit-learn, Seaborn, Statsmodels
-Just finished Day 2 of 3. It's going well.
+Completed April 2026. ✓
 
 QGIS — Basic and Advanced
 Ecospatial Lab
@@ -225,15 +225,12 @@ Something I noticed: I started the Python workshop already having built a workin
 ## What I'm doing right now 📍
 
 ```
-Location      Rome, Italy
-Role          Research and Administration Intern at IFAD (UN) — until July 2026
-Main work     Impact assessment taxonomy, gender barriers research
-Learning      Python workshop (finishing), QGIS (coming up), maths (ongoing)
-Applying to   Pre-doctoral and RA roles starting August/September 2026
-              CEP LSE · Bologna HARSH · CREST Ecole Polytechnique
-              Stockholm School of Economics · University of Zurich
-              UBC/USC Gujarat · Fortify Health
-End goal      Fully funded PhD in development economics, 2027
+Location:     Rome, Italy
+Role:         Research and Administration Intern at IFAD (UN) — until July 2026
+Main work:    Impact assessment taxonomy, gender barriers research
+Learning:     Python workshop (finished), QGIS (coming up), maths (ongoing)
+Applying to:  Pre-doctoral and RA roles starting August/September 2026
+End goal:     Fully funded PhD in development economics, 2027
 ```
 
 ---
