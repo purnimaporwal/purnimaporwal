@@ -12,13 +12,13 @@
 
 ## Hi, I'm Purnima 🎓
 
-I'm currently in Rome doing a research internship at IFAD, which is the UN agency that funds rural development projects across the world. My team reviews these projects for impact assessment work — basically asking: did this intervention actually work, for whom, and why?
+I grew up in Auraiya, Uttar Pradesh, India asking why some people's choices are freer than others. Economics gave me the tools to investigate that question properly.
 
-Before Rome, I did my MSc in Development Economics at the University of Nottingham. Before that, I worked at IDS Jaipur on time use data and gender research. And somewhere along the way, I got really curious about why women's lives are so often invisible in data — and what it would take to change that.
+MSc in Development Economics at Nottingham, then research work at IDS Jaipur with India's Time Use Survey data, and now a research internship at IFAD in Rome, reviewing whether rural development interventions actually work, for whom, and why.
 
-That curiosity is what drives pretty much everything I do here.
+I'm building toward a PhD in development economics. This GitHub is the evidence trail: real problems I worked on, documented honestly, including the parts that didn't go as planned.
 
-I'm working toward a fully funded PhD in development economics. This GitHub is part of that journey. It's where I keep the code, the projects, and honestly, the evidence that I'm learning and getting better at this.
+My research sits at the intersection of gender, labour, household economics, and measurement. How we count things, what we miss when we count badly, and what becomes visible when we count better.
 
 ---
 
