@@ -144,7 +144,6 @@ skills = {
     "Stata"  : "████████████████░░  Intermediate to Advanced",
     "R"      : "████████████░░░░░░  Intermediate",
     "Python" : "██████░░░░░░░░░░░░  Beginner-Intermediate",
-    "Colab"  : "████░░░░░░░░░░░░░░  Just learning (SUN workshop, Apr 2026)",
     "Excel"  : "████████████████░░  Advanced",
     "LaTeX"  : "████████░░░░░░░░░░  Intermediate",
     "QGIS"   : "██░░░░░░░░░░░░░░░░  Coming in April 2026",
@@ -199,12 +198,11 @@ Completed April 2026. ✓
 QGIS — Basic and Advanced
 Ecospatial Lab
 April 2026 — spatial data, maps, geographic analysis
-Coming up next.
+Currently ongoing.
 
 Mathematics
 Self-study — calculus, linear algebra, optimisation
-This is the hard one. But it's necessary for PhD-level econometrics
-and I'm working on it.
+This is the hard one. But it's necessary for PhD-level econometrics, and I'm working on it.
 ```
 
 Something I noticed: I started the Python workshop already having built a working tool. The workshop is giving me proper vocabulary and structure for things I was doing instinctively. I think sometimes that's the right way to learn — do it first, understand it properly second.
