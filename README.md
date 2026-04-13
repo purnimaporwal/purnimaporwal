@@ -71,7 +71,7 @@ Every project in this portfolio is a step on that map. Nothing here is for show.
 <td width="50%">
 
 ### 🌧️ Rainfall, DV & India
-**MSc Dissertation | Stata **
+**MSc Dissertation | Stata**
 
 20 years of data across 25 Indian states. Fixed-effects regressions, robustness checks, the whole thing. The finding that started the question I can't stop asking.
 
