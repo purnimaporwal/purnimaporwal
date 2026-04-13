@@ -51,8 +51,8 @@ I'm not going to pretend I'm already there. But I know where I'm going and I'm b
 2023–24   MSc Development Economics, University of Nottingham  ✓
 2025      Research work at IDS Jaipur and remotely  ✓
 2026      Research internship at IFAD (UN), Rome  ✓  (until July)
-2026      Python for Data Science — Stellenbosch University  (completing Apr 2026)
-2026      QGIS spatial data course — Ecospatial Lab  (April)
+2026      Python for Data Science — Stellenbosch University ✓ (completed Apr 2026)
+2026      QGIS spatial data course — Ecospatial Lab  (completing April-May 2026)
 2026      Maths prep — calculus, linear algebra, optimisation  (ongoing)
 2026–27   Pre-doctoral or RA position  (applying right now)
 2027      PhD applications — fully funded, development economics
