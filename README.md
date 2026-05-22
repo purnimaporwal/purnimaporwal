@@ -12,9 +12,9 @@
 
 ## Hi, I'm Purnima 🎓
 
-I grew up in Auraiya, Uttar Pradesh, India asking why some people's choices are freer than others. Economics gave me the tools to investigate that question properly.
+I grew up in Auraiya, Uttar Pradesh, India, asking why some people's choices are freer than others. Economics gave me the tools to investigate that question properly.
 
-MSc in Development Economics at Nottingham, then research work at IDS Jaipur with India's Time Use Survey data, and now a research internship at IFAD in Rome, reviewing whether rural development interventions actually work, for whom, and why.
+MSc in Development Economics at Nottingham, then research work at IDS Jaipur with India's Time Use Survey data, and now a research internship at IFAD in Rome, reviewing whether rural development interventions actually work, for whom, and how.
 
 I'm building toward a PhD in development economics. This GitHub is the evidence trail: real problems I worked on, documented honestly, including the parts that didn't go as planned.
 
@@ -24,7 +24,7 @@ My research sits at the intersection of gender, labour, household economics, and
 
 ## The question I keep coming back to 🔍
 
-My MSc dissertation looked at whether rainfall shocks increase domestic violence against women in India. The income stress channel made sense theoretically. Less rain, less agricultural income, more tension at home, more violence.
+My MSc dissertation looked at whether rainfall variations increase domestic violence incidents against women in India. The income stress channel made sense theoretically—less rain, less agricultural income, more tension at home, more violence.
 
 But the data told a different story.
 
@@ -33,11 +33,13 @@ What I expected:  Rainfall shock → lower income → more violence  ✗
 What I found:     Social sector expenditure → MORE reported violence  ✓
 ```
 
-States that spent more on health and education had *higher* reported domestic violence. That is not what you'd expect if spending was helping.
+States that spent more on health and education had *higher* reported domestic violence. That is not what you'd expect if spending were simply helping.
 
-I spent a lot of time after my dissertation reading about this. The IPV literature, measurement theory, and institutional economics. And slowly I started to think that what I found wasn't evidence of more violence — it was evidence of more *reporting*. When women have a clinic to go to, a school nearby, people they can tell — they report violence that was always happening but previously invisible.
+I spent a lot of time after my dissertation reading about this: the IPV literature, measurement theory, and institutional economics. And slowly I started to think that what I found wasn't evidence of more violence. It was evidence of more *reporting*. When women have a clinic to go to, a school nearby, people they can tell — they report violence that was always happening but previously invisible in the data. What the data captures depends on whether institutions create the conditions for it to be captured at all.
 
-I'm calling this the institutional trust mechanism. It's a hypothesis, not a proven finding. Testing it properly is what I want to do in a PhD.
+I'm developing this as an institutional visibility mechanism — distinct from institutional trust, which implies subjective confidence, and more about the material infrastructure through which hidden outcomes surface in administrative records. 
+
+Testing and exploring such types of invisibility and mechanisms properly is what I feel I would love to do even in my PhD.
 
 📄 [Dissertation code and findings](https://github.com/purnimaporwal/rainfall-dv-india)
 
@@ -45,16 +47,17 @@ I'm calling this the institutional trust mechanism. It's a hypothesis, not a pro
 
 ## My PhD roadmap 🗺️
 
-I'm not going to pretend I'm already there. But I know where I'm going and I'm building toward it deliberately.
+I'm not going to pretend I'm already there. But I know where I'm going, and I'm building toward it deliberately.
 
 ```
-2023–24   MSc Development Economics, University of Nottingham  ✓
-2025      Research work at IDS Jaipur and remotely  ✓
-2026      Research internship at IFAD (UN), Rome  ✓  (until July)
-2026      Python for Data Science — Stellenbosch University ✓ (completed Apr 2026)
-2026      QGIS spatial data course — Ecospatial Lab  (completing April-May 2026)
-2026      Maths prep — calculus, linear algebra, optimisation  (ongoing)
-2026–27   Pre-doctoral or RA position  (applying right now)
+2023–24   MSc Development Economics, University of Nottingham           ✓
+2025      Research work at IDS Jaipur and remotely                      ✓
+2026      Research Intern, Office of Development Effectiveness, IFAD    ✓  (until July 2026)
+2026      Python for Data Science — Stellenbosch University             ✓  (completed April 2026)
+2026      QGIS spatial data — Ecospatial Lab                            ✓  (completed May 2026)
+2026      Mathematics prep — calculus, linear algebra, optimisation         (ongoing)
+2026      RES Annual Conference — Speed Session on Development              (6 July, Newcastle)
+2026–27   Pre-doctoral or RA position                                       (applying now)
 2027      PhD applications — fully funded, development economics
 ```
 
@@ -73,9 +76,9 @@ Every project in this portfolio is a step on that map. Nothing here is for show.
 ### 🌧️ Rainfall, DV & India
 **MSc Dissertation | Stata**
 
-20 years of data across 25 Indian states. Fixed-effects regressions, robustness checks, the whole thing. The finding that started the question I can't stop asking.
+20 years of data across 25 Indian states. Fixed-effects regressions, robustness checks, the whole thing. The finding that started the question I can't stop asking. Accepted for Speed Session on Development, RES Annual Conference 2026.
 
-[→ See the code](https://github.com/purnimaporwal/rainfall-dv-india)
+[→ See the repository](https://github.com/purnimaporwal/rainfall-dv-india)
 
 </td>
 <td width="50%">
@@ -83,7 +86,7 @@ Every project in this portfolio is a step on that map. Nothing here is for show.
 ### 📄 IFAD PDF Extractor
 **Python | Built at IFAD**
 
-70+ multilingual PDFs, 200 pages each. I built a tool to extract the right section automatically. It works. My consultant said it'll keep being useful long after I leave.
+70+ multilingual PDFs, 200 pages each. I built a tool to extract the right section automatically. It works. My consultant said it'll keep being useful long even after I leave.
 
 [→ See how it works](https://github.com/purnimaporwal/ifad-pdr-extractor)
 
@@ -95,7 +98,7 @@ Every project in this portfolio is a step on that map. Nothing here is for show.
 ### ⚡ Malawi Energy Replication
 **R | RA Application Task**
 
-I replicated a published paper in R from scratch after my Stata licence expired. DHS data, panel weights, cooking fuel, women's decision-making. All four outputs.
+I replicated a published paper in R from scratch after my Stata licence expired. DHS data, panel weights, cooking fuel, and women's decision-making. All four outputs were reproduced independently.
 
 [→ See the replication](https://github.com/purnimaporwal/malawi-energy-replication)
 
@@ -127,7 +130,7 @@ I replicated a published paper in R from scratch after my Stata licence expired.
 ### 📰 Paper Reviews on Substack
 **Writing | Ongoing**
 
-I read economics papers and write about them. Not summaries — actual engagement with what the research is doing and what it means. Bandiera et al. (2022), UK parental leave policy, more coming.
+I read economics papers and write about them. Not summaries — actual engagement with what the research is doing and what it means. Bandiera et al. (2022), UK parental leave policy, more coming. It's on hold as I am currently working on projects for full-time. 
 
 [→ Read on Substack](https://substack.com/@purnimaporwal)
 
@@ -146,13 +149,15 @@ skills = {
     "Python" : "██████░░░░░░░░░░░░  Beginner-Intermediate",
     "Excel"  : "████████████████░░  Advanced",
     "LaTeX"  : "████████░░░░░░░░░░  Intermediate",
-    "QGIS"   : "██░░░░░░░░░░░░░░░░  Coming in April 2026",
+    "QGIS"   : "██░░░░░░░░░░░░░░░░  Beginner (completed May 2026)",
     "Canva"  : "████████████████░░  Advanced  (yes, I design too)",
-    "LLMs"   : "████████████░░░░░░  Regular use — Claude, NotebookLM, Gemini"
+    "LLMs"   : "████████████░░░░░░  Regular use — Claude, NotebookLM, Rayyan"
 }
 ```
 
 **Methods:** Fixed-effects panel econometrics · PRISMA systematic review · Bibliometric network analysis · Large-scale survey harmonisation · PDF processing · Data visualisation · Graphic design
+
+Currently learning web scraping (Python) and sensitivity analysis techniques through collaborative research work — April 2026 onwards
 
 **Data I've worked with:**
 ![TUS India](https://img.shields.io/badge/TUS_India-10.6M_obs-blue?style=flat)
@@ -196,16 +201,16 @@ Pandas, Matplotlib, NumPy, Scikit-learn, Seaborn, Statsmodels
 Completed April 2026. ✓
 
 QGIS — Basic and Advanced
-Ecospatial Lab
-April 2026 — spatial data, maps, geographic analysis
-Currently ongoing.
+Ecospatial Lab — spatial data, maps, geographic analysis
+Completed May 2026. ✓ (still need a lot of practice and hands-on)
 
 Mathematics
 Self-study — calculus, linear algebra, optimisation
-This is the hard one. But it's necessary for PhD-level econometrics, and I'm working on it.
+This is the hard one. But it's necessary for PhD-level econometrics,
+and I'm working on it.
 ```
 
-Something I noticed: I started the Python workshop already having built a working tool. The workshop is giving me proper vocabulary and structure for things I was doing instinctively. I think sometimes that's the right way to learn — do it first, understand it properly second.
+Something I noticed: I started the Python workshop already having built a working tool. The workshop gave me proper vocabulary and structure for things I was doing instinctively. I think sometimes that's the right way to learn — do it first, understand it properly second.
 
 ---
 
@@ -213,6 +218,7 @@ Something I noticed: I started the Python workshop already having built a workin
 
 | Year | What | Where |
 |------|------|-------|
+| 2026 | Revised version accepted for Speed Session on Development, [RES Annual Conference 2026](https://github.com/purnimaporwal/rainfall-dv-india), 6 July, Newcastle | Competitive peer selection |
 | 2026 | [The Invisible Cage: Statistical Blindness and the Care Crisis](https://instituteforhumanities.com/centre-article/19) | Centre for Gender Equality, Institute for Humanities |
 | 2024 | [Rainfall, Agriculture and Domestic Violence in India](https://ijmrrs.com/wp-content/uploads/2025/01/DevelopmentEconomics_Research-1.pdf) | Open-access journal |
 | 2025–26 | Two systematic reviews on gendered time use and labour inequality (with M. Mahamallik) | Pre-submission |
@@ -223,10 +229,11 @@ Something I noticed: I started the Python workshop already having built a workin
 ## What I'm doing right now 📍
 
 ```
-Location:     Rome, Italy
-Role:         Research and Administration Intern at IFAD (UN) — until July 2026
-Main work:    Impact assessment taxonomy, gender barriers research
-Learning:     Python workshop (finished), QGIS (coming up), maths (ongoing)
+Location:     Rome, Italy 
+Role:         Research Intern, Office of Development Effectiveness (ODE), IFAD (UN) — until July 2026
+Main work:    Impact assessment taxonomy, gender barriers assessment (ISA), cost-tab analysis
+Learning:     Python ✓, QGIS ✓, mathematics (ongoing), web scraping, sensitivity analysis
+Presenting:   RES Annual Conference 2026, Speed Session on Development, 6 July, Newcastle
 Applying to:  Pre-doctoral and RA roles starting August/September 2026
 End goal:     Fully funded PhD in development economics, 2027
 ```
@@ -250,7 +257,7 @@ I respond to every message.
 *The questions that matter most are often the ones the data doesn't answer easily. That's where I want to work.*
 
 *This is a living document — updated as I learn and build.*
-*Last updated: April 2026*
+*Last updated: May 2026*
 
 ![Profile views](https://komarev.com/ghpvc/?username=purnimaporwal&color=2E4057&style=flat&label=Profile+views)
 
