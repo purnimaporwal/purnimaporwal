@@ -144,14 +144,15 @@ I read economics papers and write about them. Not summaries — actual engagemen
 
 ```python
 skills = {
-    "Stata"  : "████████████████░░  Intermediate to Advanced",
-    "R"      : "████████████░░░░░░  Intermediate",
-    "Python" : "██████░░░░░░░░░░░░  Beginner-Intermediate",
-    "Excel"  : "████████████████░░  Advanced",
-    "LaTeX"  : "████████░░░░░░░░░░  Intermediate",
-    "QGIS"   : "██░░░░░░░░░░░░░░░░  Beginner (completed May 2026)",
-    "Canva"  : "████████████████░░  Advanced  (yes, I design too)",
-    "LLMs"   : "████████████░░░░░░  Regular use — Claude, NotebookLM, Rayyan"
+    "Stata"        : "████████████████░░  Intermediate to Advanced",
+    "R"            : "████████████░░░░░░  Intermediate",
+    "Python"       : "██████░░░░░░░░░░░░  Beginner-Intermediate",
+    "Excel"        : "████████████████░░  Advanced",
+    "LaTeX"        : "████████░░░░░░░░░░  Intermediate",
+    "QGIS"         : "██░░░░░░░░░░░░░░░░  Beginner (completed May 2026)",
+    "Canva"        : "████████████████░░  Advanced  (yes, I design too)",
+    "LLMs"         : "████████████░░░░░░  Regular use — Claude, NotebookLM",
+    "Research tools": "Rayyan (systematic review screening), VOSviewer (bibliometric mapping)"
 }
 ```
 
@@ -218,7 +219,7 @@ Something I noticed: I started the Python workshop already having built a workin
 
 | Year | What | Where |
 |------|------|-------|
-| 2026 | Revised version accepted for Speed Session on Development, [RES Annual Conference 2026](https://github.com/purnimaporwal/rainfall-dv-india), 6 July, Newcastle | Competitive peer selection |
+| 2026 | Revised version accepted for Speed Session on Development, [RES Annual Conference 2026](https://github.com/purnimaporwal/rainfall-dv-india), 6 July, Newcastle | Competitive abstract selection|
 | 2026 | [The Invisible Cage: Statistical Blindness and the Care Crisis](https://instituteforhumanities.com/centre-article/19) | Centre for Gender Equality, Institute for Humanities |
 | 2024 | [Rainfall, Agriculture and Domestic Violence in India](https://ijmrrs.com/wp-content/uploads/2025/01/DevelopmentEconomics_Research-1.pdf) | Open-access journal |
 | 2025–26 | Two systematic reviews on gendered time use and labour inequality (with M. Mahamallik) | Pre-submission |
