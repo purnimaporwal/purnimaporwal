@@ -161,10 +161,10 @@ skills = {
 Currently learning web scraping (Python) and sensitivity analysis techniques through collaborative research work — April 2026 onwards
 
 **Data I've worked with:**
-![TUS India](https://img.shields.io/badge/TUS_India-10.6M_obs-blue?style=flat)
+![TUS India](https://img.shields.io/badge/TUS_India-10.6M_obs-blue?style=flat) (MOSPI)
 ![NFHS](https://img.shields.io/badge/NFHS-India-blue?style=flat)
-![DHS Malawi](https://img.shields.io/badge/DHS-Malawi_2015--16-blue?style=flat)
-![Malawi IHPS](https://img.shields.io/badge/Malawi-IHPS_Panel-blue?style=flat)
+![DHS Malawi](https://img.shields.io/badge/DHS-Malawi_2015--16-blue?style=flat) (DHS Program)
+![Malawi IHPS](https://img.shields.io/badge/Malawi-IHPS_Panel-blue?style=flat) (World Bank Mirodata Library)
 ![NCRB](https://img.shields.io/badge/NCRB-Crime_Data-blue?style=flat)
 ![IMD](https://img.shields.io/badge/IMD-Rainfall_Data-blue?style=flat)
 ![CPCB](https://img.shields.io/badge/CPCB-Air_Quality-blue?style=flat)
