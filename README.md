@@ -219,13 +219,12 @@ Something I noticed: I started the Python workshop already having built a workin
 
 | Year | What | Where |
 |------|------|-------|
+| 2026–| Journal revision in progress | Log-transformation, robustness checks, institutional visibility framework
 | 2026 | Revised version accepted for Speed Session on Development, [RES Annual Conference 2026](https://github.com/purnimaporwal/rainfall-dv-india), 6 July, Newcastle | Competitive abstract selection|
 | 2026 | [The Invisible Cage: Statistical Blindness and the Care Crisis](https://instituteforhumanities.com/centre-article/19) | Centre for Gender Equality, Institute for Humanities |
-| 2024 | [Rainfall, Agriculture and Domestic Violence in India](https://ijmrrs.com/wp-content/uploads/2025/01/DevelopmentEconomics_Research-1.pdf) | Open-access journal |
+| 2024 | [Rainfall, Agriculture and Domestic Violence in India](https://ijmrrs.com/wp-content/uploads/2025/01/DevelopmentEconomics_Research-1.pdf) | Open-access journal | MSc Dissertation, University of Nottingham (Grade: 68, High Merit)
 | 2025–26 | Two systematic reviews on gendered time use and labour inequality (with M. Mahamallik) | Pre-submission |
 | 2025– | [Paper reviews on Substack](https://substack.com/@purnimaporwal) | Ongoing |
-
----
 
 ## What I'm doing right now 📍
 
@@ -234,10 +233,11 @@ Location:     Rome, Italy
 Role:         Research Intern, Office of Development Effectiveness (ODE), IFAD (UN) — until July 2026
 Main work:    Impact assessment taxonomy, gender barriers assessment (ISA), cost-tab analysis
 Learning:     Python ✓, QGIS ✓, mathematics (ongoing), web scraping, sensitivity analysis
-Presenting:   RES Annual Conference 2026, Speed Session on Development, 6 July, Newcastle
 Applying to:  Pre-doctoral and RA roles starting August/September 2026
+Additional Target Focus: Rainfall-DV paper undergoing revision with methodological improvements (log-transformation, robustness checks) for journal submission (target Q4 2026)
 End goal:     Fully funded PhD in development economics, 2027
 ```
+
 
 ---
 
