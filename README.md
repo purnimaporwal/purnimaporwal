@@ -31,6 +31,7 @@ But the data told a different story.
 ```
 What I expected:  Rainfall shock → lower income → more violence  ✗
 What I found:     Social sector expenditure → MORE reported violence  ✓
+Also found:       Agricultural output → more reported violence (in 25-state sample) but rainfall does NOT significantly affect output
 ```
 
 States that spent more on health and education had *higher* reported domestic violence. That is not what you'd expect if spending were simply helping.
