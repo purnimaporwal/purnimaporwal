@@ -18,7 +18,7 @@ MSc in Development Economics at Nottingham, then research work at IDS Jaipur wit
 
 I'm building toward a PhD in development economics. This GitHub is the evidence trail: real problems I worked on, documented honestly, including the parts that didn't go as planned.
 
-My research sits at the intersection of gender, labour, household economics, and measurement. How we count things, what we miss when we count badly, and what becomes visible when we count better.
+I am interested in the intersection of gender, labour, household economics, and measurement. How we count things, what we miss when we count badly, and what becomes visible when we count better.
 
 ---
 
